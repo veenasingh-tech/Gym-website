@@ -3,7 +3,8 @@
 Welcome to the **Gym Website** project! This is a modern, single-page landing page designed to provide a seamless user experience for fitness enthusiasts.
 
 ## 🚀 Live Demo
-You can view the live website here: **[Apna GitHub Pages Link Yahan Dalein]**
+You can view the live website here: 
+https://nimble-pasca-de6e96.netlify.app/
 
 ## ✨ Key Features
 * **Modern UI/UX:** Clean and professional look with high-quality fitness imagery.
