@@ -26,3 +26,4 @@ This project is part of my technical portfolio for the Outreachy March 2026 coho
 ## 🛠️ How to Run
 1. Clone this repository.
 2. Open `index.html` in any web browser.
+3. Feel free to explore the code and share your feedback!
